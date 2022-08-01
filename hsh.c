@@ -79,7 +79,7 @@ int find_builtin(info_t *info)
 
 /**
  * find_cmd - finds a command in PATH
- * @info: the parameter & return info struct
+ * @info: the parameter & return  info struct
  *
  * Return: void
  */
